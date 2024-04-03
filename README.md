@@ -21,3 +21,6 @@ Run the segmentation executable and provide the necessary input files or paramet
 Implements efficient segmentation algorithms for point cloud data.
 Allows for the processing of large datasets.
 Supports various segmentation techniques tailored to different applications.
+
+## UML Diagram
+![image](https://github.com/AlihanEEE/cpp-K-Nearest-Neighbors-classification-algorithm-k-NN-/assets/58659297/af8a7d67-d987-479d-95ed-8a83d337c174)
